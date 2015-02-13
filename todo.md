@@ -9,7 +9,7 @@
 
 # New: Nested TODOs
 
--- [ ] Subtask 1
-- [ ] Subtask 1
-- [ ] Subtask 2
-- [ ] Subtask 3
+- [ ] Top level task
+    - [ ] Subtask 1
+    - [ ] Subtask 2
+    - [ ] Subtask 3
